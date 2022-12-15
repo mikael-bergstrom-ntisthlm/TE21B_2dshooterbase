@@ -148,6 +148,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 7
+  bulletPrefab: {fileID: 1287502262990996, guid: 4dd15c7fe51711c48ba135fef149bbf8,
+    type: 3}
+  gunTransform: {fileID: 1438924084}
+  timeBetweenShots: 0.3
 --- !u!1001 &605285521
 PrefabInstance:
   m_ObjectHideFlags: 0
